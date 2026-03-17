@@ -1,1 +1,1 @@
-# perfil
+programacion de desarrollo de c sharp en modo consola trabaje en un hospital instalando equipos en red y telefonia virtual computacional desarrollo de web basicas wordpress formateo de computadoras redes domesticas y desarrollador de aplicaciones andriod 
